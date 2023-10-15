@@ -1,0 +1,51 @@
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img:hover
+{
+   border-radius: 140px;
+}
+h1
+{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+h4{
+    z-index: 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;
+}
+#result1
+{
+    width: 400px;
+    height: 200px;
+    border-radius: 0%;
+    padding: 44%;
+    box-shadow: 0 6px 0 rgba(2 2 2 0.2);
+}
+#result2
+{
+    width: 400px;
+    height: 200px;
+    border-radius: 0%;
+    padding: 44%;
+    box-shadow: 0 6px 0 rgba(2 2 2 0.2);
+}
+#result3
+{
+    width: 400px;
+    height: 200px;
+    border-radius: 0%;
+    padding: 44%;
+    box-shadow: 0 6px 0 rgba(2 2 2 0.2);
+}
+#camera
+{
+    border-color:blanchedalmond ;
+    width: 500px;
+    height: 400px;
+}
